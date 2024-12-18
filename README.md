@@ -1,2 +1,2 @@
-this is herris 
+this is my first repository  
 author -herris kashif
